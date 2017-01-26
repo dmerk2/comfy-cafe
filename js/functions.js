@@ -14,7 +14,7 @@ $(window).load(function() {
 		controlsContainer: ".slider-holder",
 		slideshowSpeed: 5000,
 		directionNav: true,
-		controlNav: false,
+		controlNav: true,
 		animationDuration: 900
 	});
 
